@@ -1,0 +1,62 @@
+body {
+	background: url("../images/blue.jpg");
+	background-repeat: no-repeat;
+	background-size: 1700px 900px
+}
+header {
+	text-align: center;
+	color: white;
+	font-size: 24px;
+}
+section {
+	text-align: center;
+	color: white;
+}
+#targetnumber {
+	text-align: center;
+	color: white;
+}
+#wins {
+	text-align: center;
+	color: white;
+}
+#losses {
+	text-align: center;
+	color: white;
+}
+#gem1 {
+	background:url("../images/bluecristal.jpg");
+	height: 200px;
+	width: 320px;
+	background-size: 320px 200px;
+	background-repeat: no-repeat;
+}
+#gem2 {
+	background:url("../images/clearcristal.jpg");
+	height: 200px;
+	width: 320px;
+	background-size: 320px 200px;
+	background-repeat: no-repeat;
+}
+#gem3 {	
+	background:url("../images/purplecristal.jpg");
+	height: 200px;
+	width: 320px;
+	background-size: 320px 200px;
+	background-repeat: no-repeat;
+}
+#gem4 {
+	background:url("../images/redcristal.jpg");
+	height: 200px;
+	width: 320px;
+	background-size: 320px 200px;
+	background-repeat: no-repeat;
+}
+#currentscore {
+	text-align: center;
+	color: white;
+}
+h3 {
+	text-align: center;
+	color: white;
+}
